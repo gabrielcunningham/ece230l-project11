@@ -15,6 +15,11 @@ In this lab, we learned how to make clock dividers from two types of counters.
 Section 2, Group 6: Gabe and Everett
 
 ## Summary
+In this lab, we implemented different methods of slowing down a clock signal.
+The first thing we tried was creating a modulo counter using full adders and
+D-latch. This is a more accurate, synchronous way of doing this. However, 
+counting can also be done with less components by using T-flipflops but it is
+not fully synchronous.
 
 ## Lab Questions
 
